@@ -7,6 +7,6 @@ class B
         System.out.println("pqr");
 
 
-        System.out.println(p);
+        
     }
 }
